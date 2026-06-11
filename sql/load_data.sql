@@ -1,0 +1,1 @@
+\copy sales FROM '/Users/dhairyaamehta/Retail-Sales-Analytics/data/cleaned/postgres_import.csv' DELIMITER ',' CSV HEADER;
