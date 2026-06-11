@@ -41,7 +41,7 @@ Retail-Sales-Analytics/
 - Revenue peaked in November–December
 
 ## Dashboard
-![alt text](image.png)
+![Retail Sales Analytics Dashboard](tableau/Dashboard%201.png)
 
 ## Skills Demonstrated
 - Data Cleaning
