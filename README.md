@@ -11,7 +11,28 @@ Built an end-to-end analytics pipeline using Python, PostgreSQL, SQL, and Tablea
 - Tableau Public
 
 ## Project Structure
-...
+Retail-Sales-Analytics/
+│
+├── data/
+│   ├── raw/
+│   └── cleaned/
+│
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_visualizations.ipynb
+│   └── 03_business_insights.ipynb
+│
+├── sql/
+│   ├── create_table.sql
+│   ├── load_data.sql
+│   └── business_queries.sql
+│
+├── tableau/
+│   ├── Dashboard 1.png
+│   └── Retail Sales Analytics Dashboard.twbx
+│
+├── README.md
+└── .gitignore
 
 ## Key Insights
 - Total Revenue: $12.64M
@@ -20,7 +41,7 @@ Built an end-to-end analytics pipeline using Python, PostgreSQL, SQL, and Tablea
 - Revenue peaked in November–December
 
 ## Dashboard
-[Dashboard Screenshot]
+![alt text](image.png)
 
 ## Skills Demonstrated
 - Data Cleaning
@@ -28,3 +49,5 @@ Built an end-to-end analytics pipeline using Python, PostgreSQL, SQL, and Tablea
 - SQL Analytics
 - Data Visualization
 - Business Intelligence
+
+
